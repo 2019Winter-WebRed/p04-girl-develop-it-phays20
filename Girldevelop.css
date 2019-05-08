@@ -1,0 +1,41 @@
+/*
+* Peyton Hays
+* February 1, 2019
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+#"ggg" {width: 600px; height: 600px; float: center;}
+
+h1 { font-family: cursive; 
+text-decoration: underline;}
+
+h1 { font-family: cursive;
+text-decoration: underline}
+
+body { background-color:#FAE3E0;
+
+}
+
+header{ background-color:  #F1636A;}
+
+header {text-align: center;}
+
+
+a:link{
+	color: blue;
+
+	background-color: pink;}
+
+a:hover, a:focus{ font-size: 145%;}
+color: pink;}
+
+#comp{ width:auto; height: auto; float: right;} 
+#girl{ width: auto; height: auto; float: right;}
